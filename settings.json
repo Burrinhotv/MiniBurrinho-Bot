@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MiniBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MundoMystic.aternos.me",
-    "port": 17518,
+    "ip": "MYSTICWORD.aternos.me",
+    "port": 54329,
     "version": "",
     "try-creative": false
   },
